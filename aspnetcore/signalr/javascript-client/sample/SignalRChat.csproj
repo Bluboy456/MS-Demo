@@ -6,7 +6,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.0-preview1-28291" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.22" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.1.0-preview1-28291" />
   </ItemGroup>
 
